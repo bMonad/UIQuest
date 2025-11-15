@@ -1,0 +1,41 @@
+[
+  {
+    "name": "public",
+    "isFolder": true,
+    "children": [
+      {
+        "name": "index.html",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      {
+        "name": "component",
+        "isFolder": true,
+        "children": []
+      },
+      {
+        "name": "assets",
+        "isFolder": true,
+        "children": [
+          {
+            "name": "photos",
+            "isFolder": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "App.js",
+    "isFolder": false
+  },
+  {
+    "name": "package.json",
+    "isFolder": false
+  }
+]
