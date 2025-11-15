@@ -16,7 +16,7 @@ Below is a table of projects included in this repository. "Project" links to the
 
 | Project                                    | Demo                                             |
 | ------------------------------------------ | ------------------------------------------------ |
-| [Currency-Convertor](./currency-convertor) | https://currency-convertor-one-kappa.vercel.app/ |
+| [Currency-Converter](challenges/Currency-Converter) | https://currency-convertor-one-kappa.vercel.app/ |
 
 > Note: If a demo link is missing, run the project locally:
 
